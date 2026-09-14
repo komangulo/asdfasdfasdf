@@ -1,0 +1,9 @@
+{
+  "accounts": [
+    {
+      "id": "default",
+      "name": "Default"
+    }
+  ],
+  "activeAccountId": "default"
+}
